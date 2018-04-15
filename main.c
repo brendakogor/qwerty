@@ -12,6 +12,7 @@ int main (){
     scanf("%f %f", &dato1, &dato2);
     promedio = (dato1 + dato2 ) / 2;
     printf("El promedio es %4.1f ", promedio);
+     printf("El programa ha terminado");
     printf("\n\nOprima cualquier tecla para terminar...");
     getch();   
 }
