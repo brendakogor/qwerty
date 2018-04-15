@@ -1,4 +1,4 @@
-//Brenda Méndez López 
+
 //Programa 1.1: recibe 2 datos y devuelve su promedio.
 
 #include <conio.h>
